@@ -1,0 +1,56 @@
+.
+├── README.md
+├── context.txt
+├── 历史
+├── 文学
+│   ├── 成为母亲：一名知识女性的自白+.epub
+│   └── 纪伯伦大全集名家译著经典套装（全七册）【mebook.cc】.mobi
+├── 心理学
+│   └── 戒掉孩子的拖延症.epub
+└── 计算机
+    ├── DB
+    │   ├── mysql
+    │   └── redis
+    ├── OS
+    │   ├── linux
+    │   │   ├── Linux程序设计(第4版) .mobi
+    │   │   ├── Linux内核设计的艺术：图解Linux操作系统架构设计与实现原理(第2版).epub
+    │   │   └── 鸟哥的linux私房菜.mobi
+    │   ├── macos
+    │   ├── others
+    │   │   └── 30天自制操作系统.epub
+    │   └── windows
+    ├── language
+    │   ├── UML
+    │   │   └── UML基础、建模与设计实战.mobi
+    │   ├── c_c++
+    │   ├── go
+    │   ├── java
+    │   ├── js
+    │   ├── kotlin
+    │   │   ├── kotlin-reference-chinese.epub
+    │   │   └── kotlin-reference-chinese.mobi
+    │   ├── python
+    │   │   ├── Python教程-廖雪峰.epub
+    │   │   ├── Python核心编程(第3版).epub
+    │   │   ├── Python核心编程(第二版).epub
+    │   │   ├── Python核心编程.mobi
+    │   │   ├── python 语法.jpg
+    │   │   └── python 高手之路.mobi
+    │   └── shell
+    ├── 工具
+    │   ├── git
+    │   │   └── progit.mobi
+    │   └── vim
+    ├── 中间件
+    │   ├── MQ
+    │   │   └── Kafka权威指南.epub
+    │   └── docker
+    │       └── Docker技术入门与实战（第2版）.epub
+    ├── 机器学习
+    │   ├── 机器学习实践.epub
+    │   ├── 机器学习实践.mobi
+    │   └── 机器学习：实用案例解析.mobi
+    └── 程序设计
+
+29 directories, 24 files

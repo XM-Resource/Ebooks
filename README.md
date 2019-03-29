@@ -1,0 +1,6 @@
+- 本仓库仅收录电子书籍工学习交流，不用于商业目的
+- 如果有好的学习资料，欢迎分享
+- 可拉分支添加到对应目录，并更新 context.txt目录文件；提交 merge request 等待审核
+- git 的分支操作可参考：
+- context.txt 文件可通过 linux 命令行工具`tree -N > context.txt`生成
+- 具体书目见文件文件 context.txt
